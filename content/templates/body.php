@@ -13,11 +13,11 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav pull-right">
-          <li class="active"><a href="/home">HOME</a></li>
-          <li class="active"><a href="/about">ABOUT</a></li>
-          <li class="active"><a href="/ministries">MINISTRIES</a></li>
-          <li class="active"><a href="/calendar">CALENDAR</a></li>
-          <li class="active"><a href="/connect">CONNECT</a></li>
+          <li class="active"><a href="<?= $routes->generate('home') ?>">HOME</a></li>
+          <li class="active"><a href="<?= $routes->generate('about') ?>">ABOUT</a></li>
+          <li class="active"><a href="<?= $routes->generate('ministries') ?>">MINISTRIES</a></li>
+          <li class="active"><a href="<?= $routes->generate('calendar') ?>">CALENDAR</a></li>
+          <li class="active"><a href="<?= $routes->generate('connect') ?>">CONNECT</a></li>
           <li class="active"><a href="https://radiantlightchurch.breezechms.com/give/online" target="new">GIVE</a></li>
         </ul>
       </div>

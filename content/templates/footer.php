@@ -48,11 +48,11 @@
           <div class="col-md-6 widget">
             <div class="widget-body">
               <p class="simplenav">
-                <a href="/home">Home</a> |
-                <a href="/about">About</a> |
-                <a href="/ministries">Ministries</a> |
-                <a href="/calendar">Calendar</a> |
-                <a href="/connect">Connect</a> |
+                <a href="<?= $routes->generate('home') ?>">Home</a> |
+                <a href="<?= $routes->generate('about') ?>">About</a> |
+                <a href="<?= $routes->generate('ministries') ?>">Ministries</a> |
+                <a href="<?= $routes->generate('calendar') ?>">Calendar</a> |
+                <a href="<?= $routes->generate('connect') ?>">Connect</a> |
                 <a href="https://radiantlightchurch.breezechms.com/give/online">Give</a>
               </p>
             </div>
