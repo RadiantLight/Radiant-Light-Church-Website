@@ -32,8 +32,7 @@
           <div class="col-md-6 widget">
             <h3 class="widget-title">Upcoming Events You Don't Want To Miss!</h3>
             <div class="widget-body">
-              <p><b>National Fine Arts in Anaheim, California</b> - <em><strong>August 7th - August 11th</strong></em></p>
-              <p><b>Church Picnic Following Sunday Service</b> - <em><strong>August 20th</strong></em></p>
+              <p><b>Trunk or Treat Light The Night Event</b> - <em><strong>October 28th</strong></em></p>
             </div>
           </div>
 
