@@ -48,11 +48,11 @@ We have recently renovated our entire children’s ministry space! We’ve made 
 <p><h4><strong>What if my child needs me?</strong></h4>
 If your child needs you for any reason while you are participating in the service, a team member will be sent to come get you.</p><br>
 
-<p><h4><strong>What time can I check-in my child(ren)?</strong></h4>
+<p><h4><strong>What time can I check-in my children?</strong></h4>
 For first time guests, an information form about your child will be given for you to fill out. information such as allergies, any special needs your child has will be on the form.
 Parents are strongly encouraged to complete the check-in process prior to the start of each service. Nurseries and classes are open 15 minutes before the service is slated to begin.</p><br>
 
-<p><h4><strong>Can someone else pick up my child(ren)?</strong></h4>
+<p><h4><strong>Can someone else pick up my children?</strong></h4>
 For safety purposes, each child is provided with a unique check-in number and is only released from the classroom when a parent or responsible guardian provides the corresponding tag.  Should you accidentally misplace the tag, the room leader will ask you a few additional questions to assure your identity. We will NOT dismiss children with an older sibling.</p><br>
 
 <p><h4><strong>Please alert us of any special needs your child may have.</strong></h4>
