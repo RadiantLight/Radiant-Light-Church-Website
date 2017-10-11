@@ -27,7 +27,7 @@
         </p>
           <br>
         <p>
-          For more information on our ministries, visit our "<a href="ministries.html" target="new">Ministries</a>" Page.
+          For more information on our ministries, visit our "<a href="<?= $routes->generate('ministries') ?>" target="new">Ministries</a>" Page.
         </p>
       </h4></div>
     <div class="col-sm-7">
@@ -54,7 +54,16 @@
 
    <!-- /row -->
   <br>
-  <!-- InstanceEndEditable -->
+
+  <div class="jumbotron">
+    <h2>Light The Night Registration!</h2>
+    <img src="/assets/images/TrunkOrTreat2.png" alt="">
+    <br>
+    <br>
+    <p>Please be sure to fill out a registration form for EACH child participating in our Trunk or Treat - Light The Night Event. We cannot accept more than one child per registration form. Thank you for your cooperation and we look forward to seeing you on October 28th from 5pm - 8pm!</p>
+    <p><a class="btn btn-primary btn-lg" href="https://radiantlightchurch.breezechms.com/form/a6db233" role="button">Register Here!</a></p>
+</div>
+<!-- InstanceEndEditable -->
 </div>
 <!-- Highlights - jumbotron -->
 
@@ -79,15 +88,4 @@
 
 		</div>
       <!-- InstanceEndEditable -->
-	</div>
-	<!-- /Highlights -->
-
-	<!-- container -->
-	<!-- /container -->
-
-	<!-- Social links. @TODO: replace by link/instructions in template -->
-	<!-- /social links -->
-
-
-
-<!-- InstanceEnd --></html>
+  </div>
